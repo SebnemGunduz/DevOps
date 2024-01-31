@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules
+
+# Build files
+dist
+build
+out
+
+# Misc
+.DS_Store
