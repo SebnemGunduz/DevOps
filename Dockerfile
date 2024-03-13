@@ -1,5 +1,5 @@
 # Kullanılacak temel imaj
-FROM node:21.6.0-bookworm-slim
+FROM node:21.7.0-bookworm-slim
 
 # Uygulamanın çalışacağı dizini belirt
 WORKDIR /app
